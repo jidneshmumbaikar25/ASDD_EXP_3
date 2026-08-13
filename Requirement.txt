@@ -1,1 +1,2 @@
 import maths
+do pattern for prime numbers
